@@ -1,1 +1,2 @@
 Se agrega la primera linea desde main
+Se agrega segunda linea desde b2, local
